@@ -122,8 +122,8 @@ Git configurations are settings that allow you to customize how Git works. They 
 ```
 git version
 git config --global --list
-git config --global user.name "nachiketh"
-git config --global user.email "support@manifoldailearning.in"
+git config --global user.name "shubhamchau2222"
+git config --global user.email "shubhamchau78@gmail.com"
 git config --global init.defaultBranch main
 git config --global --list
 
