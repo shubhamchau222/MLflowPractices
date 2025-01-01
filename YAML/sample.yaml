@@ -1,0 +1,21 @@
+file_name: "basic yaml file"
+version: 1.0
+config: 1.0
+havedependancy: True
+pre_enroll: null
+category:
+  - AWS
+  - GCP
+files: ['a.py', "b.py"]
+dev_details:
+  - name: "shubham"
+    designation: "Ml Eng"
+  - name: "Shantanu"
+    designation: "Data Scientist"
+facilities:
+  - swimming
+  - karate
+  - "karate"
+short_desc: >
+  This is a demo file used 
+  for learning purpose
